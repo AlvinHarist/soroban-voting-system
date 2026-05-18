@@ -242,5 +242,8 @@ cargo test
 ```
 
 ---
+ID Smart Contract = CBRLV6VSOVWDEGATBVC6EWQZWHE2ZTFZCXJ4C6YPQSJEOHBYSYC4A75B
+
+---
 
 **Stellar Voting DApp** - Building Transparent Governance on the Blockchain
