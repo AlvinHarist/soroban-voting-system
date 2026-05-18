@@ -10,6 +10,16 @@ The system is designed to demonstrate how blockchain technology can be used to c
 
 The smart contract allows administrators to create candidates while users can securely cast votes using their blockchain wallet addresses. The contract also prevents double voting by enforcing a one-wallet-one-vote mechanism.
 
+## Application Screenshots
+
+### Voting DApp Interface
+
+![Voting DApp UI](./assets/ui.png)
+
+### Smart Contract Explorer
+
+![Smart Contract Explorer](./assets/stellar.png)
+
 ## Project Vision
 
 Our vision is to modernize digital voting systems through blockchain technology by:
