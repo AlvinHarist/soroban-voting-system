@@ -72,8 +72,9 @@ We envision a future where voting systems are open, verifiable, and resistant to
 
 ## Contract Details
 
-- Contract Address: `CBRLV6VSOVWDEGATBVC6EWQZWHE2ZTFZCXJ4C6YPQSJEOHBYSYC4A75B`
-- Network: Stellar Testnet
+- Contract Address: `CCPS6IO73A5675CPZSFUXE7IQHMHTA5OEKIOU6VDHPOQDYYXYIQGACWQ` (Mainnet)
+- Network: Stellar Mainnet
+- Frontend Vercel Deployment: [[https://soroban-voting-system.vercel.app](https://soroban-voting-system.vercel.app)]
 
 ## Future Scope
 
@@ -240,7 +241,7 @@ stellar contract build
 stellar contract deploy \
 --wasm target/wasm32-unknown-unknown/release/voting.wasm \
 --source alice \
---network testnet
+--network mainnet
 ```
 
 ---
@@ -252,7 +253,7 @@ cargo test
 ```
 
 ---
-ID Smart Contract = CBRLV6VSOVWDEGATBVC6EWQZWHE2ZTFZCXJ4C6YPQSJEOHBYSYC4A75B
+ID Smart Contract = CCPS6IO73A5675CPZSFUXE7IQHMHTA5OEKIOU6VDHPOQDYYXYIQGACWQ (Mainnet)
 
 ---
 
